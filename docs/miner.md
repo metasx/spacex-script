@@ -10,7 +10,7 @@ The Miner node runs chain modules (not participating in block generation), stora
 
 ## 2. Ready to Deploy
 
-> Note: The account of Spacex mainnet starting with the letter 'c'.
+> Note: The account of Mannheim mainnet starting with the letter 'r'.
 
 ### 2.1 Create your Accounts
 
@@ -86,7 +86,7 @@ Enter the password for the backup file as prompted and press Enter to end.
 
 > Disk organization solution is not unitary. If there is a better solution, you can optimize it yourself.
 
-With Spacex as a decentralized storage network, the configuration of your hard disks becomes quite important. The node storage capacity will be reported to the Spacex Network as reserved space, and this will determine the stake limit of this node.
+With Spacex as a decentralized storage network, the configuration of your hard disks becomes quite important. The node storage capacity will be reported to the Mannheim Network as reserved space, and this will determine the stake limit of this node.
 
 **Base hard disk mounting requirements:**
 
@@ -211,7 +211,7 @@ sudo spacex reload
 
 ### 6.2 Uninstall and Data Cleanup
 
-If you have run a previous version of Spacex test chain, or if you want to redeploy your current node, you need to clear data from three sources:
+If you have run a previous version of Mannheim test chain, or if you want to redeploy your current node, you need to clear data from three sources:
 
 * Delete basic Spacex files under /opt/mannheimworld/data and /opt/mannheimworld/disks
 * Clean node data under /opt/mannheimworld/spacex-script by executing:
