@@ -6,7 +6,7 @@ The Guardian node is the initiator of and in charge of the Group, participating 
 
 ## 2. Ready to Deploy
 
-> Note: The account of Spacex mainnet starting with the letter 'c'.
+> Note: The account of Mannheim mainnet starting with the letter 'r'.
 
 ### 2.1 Create your Accounts
 
@@ -148,7 +148,7 @@ sudo spacex reload
 ```
 ### 6.2 Uninstall and Data Cleanup
 
-If you have run a previous version of Spacex test chain, or if you want to redeploy your current node, you need to clear data from three sources:
+If you have run a previous version of Mannheim test chain, or if you want to redeploy your current node, you need to clear data from three sources:
 
 * Delete basic Spacex files under /opt/mannheimworld/data
 * Clean node data under /opt/mannheimworld/spacex-script by executing:
